@@ -1,3 +1,5 @@
+![logo](./LogoLine_EC_Cop_ECMWF.png)
+
 # CARRA2 CDS Notebooks
 
 This repository contains demonstration Jupyter Notebooks for retrieving, analyzing, and plotting Copernicus Pan-Arctic Regional Reanalysis (CARRA2) data using the Copernicus Climate Data Store (CDS) API.
