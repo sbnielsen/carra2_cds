@@ -3,7 +3,7 @@ import cdsapi
 dataset = "reanalysis-pan-carra"
 request = {
     "level_type": 'single_levels',
-    "variable": ['time_integral_of_rain_flux', 'total_precipitation']
+    "variable": ['time_integral_of_rain_flux', 'total_precipitation'],
     "product_type": 'forecast',
     "time": [
             '00:00', '12:00',
